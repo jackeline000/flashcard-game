@@ -5,7 +5,7 @@ This software demonstrates my understanding of functions, loops, conditionals, c
 
 My goal with this project was to get more confident writing C++ code and to understand how to read and write data to a file using file streams.
 
-Software Demo Video : 
+Software Demo Video : https://youtu.be/JdjWKOB9hZ0
 
 Development Environment
 I used Visual Studio Code to write and test the program. I compiled the C++ code in terminal. 
